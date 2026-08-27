@@ -1,0 +1,368 @@
+Script started on Wed Aug 26 22:38:11 2026
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia cienciadatos520 % 
+[K[?2004h[Kppwd[?2004l
+/Users/antonia/Documents/cienciadatos520
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia cienciadatos520 % 
+[K[?2004h[Kccd/[?2004l
+zsh: no such file or directory: cd/
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia cienciadatos520 % 
+[K[?2004h[Kppwd[?2004l
+/Users/antonia/Documents/cienciadatos520
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia cienciadatos520 % 
+[K[?2004h[Kccd Users[?2004l
+cd: no such file or directory: Users
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia cienciadatos520 % 
+[K[?2004h[Kccd U /Uses     c [K[Kccd /[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia / % [K[?2004hppwd[?2004l
+/
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia / % [K[?2004hccd Users[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia /Users % [K[?2004hppwd[?2004l
+/Users
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia /Users % [K[?2004hccdm..    ..[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia / % [K[?2004hppwd[?2004l
+/
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia / % [K[?2004hccd[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia ~ % [K[?2004hppwd[?2004l
+/Users/antonia
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia ~ % [K[?2004hccd ../..[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia / % [K[?2004hppwd[?2004l
+/
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia / % [K[?2004hccd[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia ~ % [K[?2004hppwd[?2004l
+/Users/antonia
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia ~ % [K[?2004hccd ../../etc[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia /etc % [K[?2004hppwd[?2004l
+/etc
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia /etc % [K[?2004hccd /[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia / % [K[?2004hccd etc[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia /etc % [K[?2004hppwd[?2004l
+/etc
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia /etc % [K[?2004hccd[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia ~ % [K[?2004hppwd[?2004l
+/Users/antonia
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia ~ % [K[?2004hccd etc[?2004l
+cd: no such file or directory: etc
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia ~ % [K[?2004hccd /etc[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia /etc % [K[?2004hppwd[?2004l
+/etc
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia /etc % [K[?2004hwwhoami[?2004l
+antonia
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia /etc % [K[?2004hccd /Users/a [Knntonia/Desktop[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia Desktop % [K[?2004hppwd[?2004l
+/Users/antonia/Desktop
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia Desktop % [K[?2004hccd ~[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia ~ % [K[?2004hppwd[?2004l
+/Users/antonia
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia ~ % [K[?2004hccd ~/Desktop[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia Desktop % [K[?2004hppwd[?2004l
+/Users/antonia/Desktop
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia Desktop % [K[?2004hccd[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia ~ % [K[?2004hccd /[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia / % [K[?2004hccd ~/Desktop[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia Desktop % [K[?2004hd ccd /er tc[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia /etc % [K[?2004hccd /var/log [K[K[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia log % [K[?2004hccd ..[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia /var % [K[?2004hccd[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia ~ % [K[?2004hmmkdir /tmp/tut [Kppria  p [Koorial[?2004l
+mkdir: /tmp/tutorial: File exists
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia ~ % [K[?2004hccd /tmp/tutori [Kaal[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hppwd[?2004l
+/tmp/tutorial
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hmmkdir d [Kiir1 dir2 dir3[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hmmkdir[?2004l
+usage: mkdir [-pv] [-m mode] directory_name ...
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hccd /etc [K^^/^ [K~~/Desktop[A[48C[1B ~/Desktop[9D[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
+cd: string not in pwd: /etc
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hlls[?2004l
+dir1	dir2	dir3
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hmmkdir - [Kpp dir4/dir5/dir6[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hlls[?2004l
+dir1	dir2	dir3	dir4
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hccd dir4 [K[K[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia dir4 % [K[?2004hlls[?2004l
+dir5
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia dir4 % [K[?2004hccd dir5[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia dir5 % [K[?2004hlls[?2004l
+dir6
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia dir5 % [K[?2004hccd ../..[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hmmkdir a [Knnother folder[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hlls[?2004l
+another	dir1	dir2	dir3	dir4	folder
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hmmam mkdir $ [K[A[48C[K[1B[K[A[48C" [Kffolfe  der 1"[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hmmkdir ? [K[A[48C[K[1B[K[A[48C¨ [K[A[48C[K[1B[K[A[48C´ [K[A[48C[K[1B[K[A[48C' [Kffpf folder 2'[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hmmkdir f [Koolderº \3[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hmmkdir " [Kd[Kffolder 4" "folder 5"[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hmmkdir - [Kpp "folder 6" /fol   "folder 7"[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hlls[?2004l
+another		dir4		folder 4
+dir1		folder		folder 5
+dir2		folder 1	folder 6
+dir3		folder 2	folder3
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hlls < > ou [Kr[Kttput.txt[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hccat out [Kpput.txt[?2004l
+another
+dir1
+dir2
+dir3
+dir4
+folder
+folder 1
+folder 2
+folder 4
+folder 5
+folder 6
+folder3
+output.txt
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hccat[?2004l
+helo lo     hola
+hola
+^C
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004heecho "T [Khhis is a tex st"[?2004l
+This is a test
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hc eecho "T [Khhis is a test" > test_1.txt[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004heecho "t [K[A[48C[K[1B[K[A[48CT [Khhis is a test" > test_2.txt[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004heecho "t [Khhis is a test" > text  st.t  _3.txt[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hlls[?2004l
+another		folder 1	output.txt
+dir1		folder 2	test_1.txt
+dir2		folder 4	test_2.txt
+dir3		folder 5	test_3.txt
+dir4		folder 6
+folder		folder3
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hccat tes [Ktt_1 test_2.txt[1C. test_2.txt[11Dt test_2.txt[11Dx test_2.txt[11Dt test_2.txt[11D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C test. _3.txt[?2004l
+This is a test
+This is a test
+this is a test
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hccat r tes [Ktt_1.tex  xt      ?.txt[?2004l
+This is a test
+This is a test
+this is a test
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hccat tes [Ktt_*[?2004l
+This is a test
+This is a test
+this is a test
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hccat t*  [K>> comn bined.txt[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hccat com [Kbbined .txt[?2004l
+This is a test
+This is a test
+this is a test
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hccat t*  [K>>> comn bined.txt[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004heecho "I [K''ve appended a line" >> combined.txt[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hccat com [Kbbined.txt[?2004l
+This is a test
+This is a test
+this is a test
+This is a test
+This is a test
+this is a test
+I've appended a line
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hcat combined.txt[K[A[33Cecho "I've appended a line" >> combined.txt[A[6Ccat t* >[21P[14C                     [21D[A[31Ccombined.txt      [A[37Ct* >> combined.txt[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hcat t* >> combined.txt[K[A[31Ccomb[6P[42C[K[34D[A[33Cecho "I've appended a line" >> combined.txt[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hecho "I've appended a line" >> combined.txt[K[A[6Ccat t* >[21P[27C[K[13D[A[31Ccombined.txt      [?2004l
+This is a test
+This is a test
+this is a test
+This is a test
+This is a test
+this is a test
+I've appended a line
+This is a test
+This is a test
+this is a test
+I've appended a line
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hlless co [Kmmbined.txt[?2004l
+[?1049h[18;1H[?1h=This is a test
+This is a test
+this is a test
+This is a test
+This is a test
+this is a test
+I've appended a line
+This is a test
+This is a test
+this is a test
+I've appended a line
+[7mcombined.txt (END)[27m[K[K [KESCESC[KOO[KAA[K...skipping...
+This is a test
+This is a test
+this is a test
+This is a test
+This is a test
+this is a test
+I've appended a line
+This is a test
+This is a test
+this is a test
+I've appended a line
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[1m~[0m
+[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K [KESCESC[KOO[KBB[K[K[7m(END)[27m[K[K[?1l>[?1049l[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hq[?2004l
+zsh: command not found: q
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004heecho "l [Ko[K[A[48C[K[1B[K[A[48CL [Koower case" > a.txt[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004heecho "U [Kppper case" > A.tc xt   TXT[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004heecho "M [Kiixed case" < > A.txt[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hmmv comb [Kiined.txt dir1[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hlls dir1 [K[K[?2004l
+combined.txt
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hmmv dir1 [K//* .[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hmmv comb [Kiined.txt test_* dir3 dir2[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hlls[?2004l
+a.txt		folder		folder 6
+another		folder 1	folder3
+dir1		folder 2	output.txt
+dir2		folder 4
+dir4		folder 5
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hlls dir2 [K[K[?2004l
+combined.txt	test_1.txt	test_3.txt
+dir3		test_2.txt
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hmmv dir2 [K//combined.txt dri  or  ir4/dir5/dir6[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hlls dir2 [K[K[?2004l
+dir3		test_2.txt
+test_1.txt	test_3.txt
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hccp dir4 [K//dir5/dir6/combined.txt[?2004l
+usage: cp [-R [-H | -L | -P]] [-fi | -n] [-aclpSsvXx] source_file target_file
+       cp [-R [-H | -L | -P]] [-fi | -n] [-aclpSsvXx] source_file ... target_directory
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hlls dir4 [K//dir5/dir6[?2004l
+combined.txt
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hlls[?2004l
+a.txt		folder		folder 6
+another		folder 1	folder3
+dir1		folder 2	output.txt
+dir2		folder 4
+dir4		folder 5
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hccp comb [Kiined.txt backup_combined.txt[?2004l
+cp: combined.txt: No such file or directory
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hcp combined.txt backup_combined.txt[K[A[14Cls[K[1B[K[A[44C dir4/dir5/dir6[K[A[32Ccp[1B[34D/combined.txt .[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hlls dir4 [K//dir5/dir6[?2004l
+combined.txt
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hlls[?2004l
+a.txt		dir4		folder 5
+another		folder		folder 6
+combined.txt	folder 1	folder3
+dir1		folder 2	output.txt
+dir2		folder 4
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hccp comb [Kiined: _txt     d.txt v backup_combined.txt[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hlls[?2004l
+a.txt			folder 1
+another			folder 2
+backup_combined.txt	folder 4
+combined.txt		folder 5
+dir1			folder 6
+dir2			folder3
+dir4			output.txt
+folder
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hmmv back [Kuup: _combined.txt combined_backup.txt[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hlls[?2004l
+a.txt			folder 1
+another			folder 2
+combined_backup.txt	folder 4
+combined.txt		folder 5
+dir1			folder 6
+dir2			folder3
+dir4			output.txt
+folder
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hmmv "fol [Kdder1" folder_1[?2004l
+mv: rename folder1 to folder_1: No such file or directory
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hmv "folder1" folder_1[K[1C 1" folder_1[11D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hmmv "fol [Kdder 2" folder_2[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hmv "folder 2" folder_2[K[K3[P[10C [11D3" folder_3[10D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
+mv: rename folder 3 to folder_3: No such file or directory
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hmv "folder 3" folder_3[K[1C[P[11C [12D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hmv "folder3" folder_3[K[1C 4[1C[1C[P[10C [11D4" folder_4[10D[P[10C [11D " folder_4[10D4" folder_4[10D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hmv "folder 4" folder_4[K[K5[P[10C [11D5" folder_5[10D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hmv "folder 5" folder_5[K[K6[1C[P[10C [11D6" folder_6[10D[1C[1C[1C[1C[1C[1C[1C[1C[1C[1C[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hlls[?2004l
+a.txt			folder_1
+another			folder_2
+combined_backup.txt	folder_3
+combined.txt		folder_4
+dir1			folder_5
+dir2			folder_6
+dir4			output.txt
+folder
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hppwd[?2004l
+/tmp/tutorial
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hrrm dir4 [K//dir5/dir6/combined.txt combined_backup.tc xt[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hrrm fold [Keer_*[?2004l
+rm: folder_1: is a directory
+rm: folder_2: is a directory
+rm: folder_3: is a directory
+rm: folder_4: is a directory
+rm: folder_5: is a directory
+rm: folder_6: is a directory
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hrrmdir f [Koolder_*[?2004l
+rmdir: folder_6: Directory not empty
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hlls[?2004l
+a.txt		dir1		folder
+another		dir2		folder_6
+combined.txt	dir4		output.txt
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hrrm -r f [Koolder_6[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hlls[?2004l
+a.txt		dir1		folder
+another		dir2		output.txt
+combined.txt	dir4
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hwwc -l c [Koombined.txt[?2004l
+      11 combined.txt
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hlls ~>  >  [Kffile_list.txt[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hwwc -l f [Kiile_list.txt[?2004l
+      20 file_list.txt
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hrrm file [K__list.txt[?2004l
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hlls ^ ~° |  |  [Kwwc -l[?2004l
+      20
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hlls /ect [K||wc-  -l[?2004l
+ls: /ect: No such file or directory
+       0
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hlls /ect [K  1 less       | less[?2004l
+ls: /ect: No such file or directory
+[?1049h[18;1H[?1h=[K[7m(END)[27m[K[K[?1l>[?1049l[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hccat com [Kbbined.txt 1 | uniq | wc -l[?2004l
+       8
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hccat com [Kbbined.txt 1 | uniq | less[?2004l
+[?1049h[18;1H[?1h=This is a test
+this is a test
+This is a test
+this is a test
+I've appended a line
+This is a test
+this is a test
+I've appended a line
+[7m(END)[27m[K[K[?1l>[?1049l[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hmman uni [Kq[?2004l
+[?1049h[18;1H[?1h=UNIQ(1)     General Commands Manual     UNIQ(1)
+
+[1mNAME[0m
+     [1muniq[0m – report or filter out repeated lines
+     in a file
+
+[1mSYNOPSIS[0m
+     [1muniq[0m [[1m-cdiu[0m] [[1m-D[0m[[4mseptype[24m]] [[1m-f[0m [4mnum[24m]
+          [[1m-s[0m [4mchars[24m] [[4minput_file[24m [[4moutput_file[24m]]
+
+[1mDESCRIPTION[0m
+     The [1muniq[0m utility reads the specified
+     [4minput_file[24m comparing adjacent lines, and
+     writes a copy of each unique input line to
+     the [4moutput_file[24m.  If [4minput_file[24m is a
+     single dash (‘[1m-[0m’) or absent, the standard
+     input is read.  If [4moutput_file[24m is absent,
+:[K[K     standard output is used for output.  The
+:[K[K:[K[K:[K[K:[K[K     second and succeeding copies of identical
+:[K[K:[K[K:[K[K[?1l>[?1049l[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hssort co [Kmmbined.txt | less[?2004l
+[?1049h[18;1H[?1h=I've appended a line
+I've appended a line
+this is a test
+this is a test
+this is a test
+This is a test
+This is a test
+This is a test
+This is a test
+This is a test
+This is a test
+[7m(END)[27m[K[K[?1l>[?1049l[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004hssort co [Kmmbined.txt | uniq | wc -l[?2004l
+       3
+[1m[7m%[27m[1m[0m                                                 [0m[27m[24m[Jantonia@MacBook-Pro-de-Antonia tutorial % [K[?2004heexit[?2004l
+
+Script done on Thu Aug 27 00:51:57 2026
