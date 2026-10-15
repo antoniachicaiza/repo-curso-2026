@@ -1,3 +1,5 @@
+Delfina Esponda, Antonia Chicaiza
+
 library(igraph)
 library(tidygraph)
 library(ggraph)
